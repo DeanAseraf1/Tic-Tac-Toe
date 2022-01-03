@@ -1,0 +1,6 @@
+E:\.Net\OOPTypeScript\Test\Test\bin\TypeScriptHTMLApp1.dll.config
+E:\.Net\OOPTypeScript\Test\Test\bin\TypeScriptHTMLApp1.dll
+E:\.Net\OOPTypeScript\Test\Test\bin\TypeScriptHTMLApp1.pdb
+E:\.Net\OOPTypeScript\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+E:\.Net\OOPTypeScript\Test\Test\obj\Debug\TypeScriptHTMLApp1.dll
+E:\.Net\OOPTypeScript\Test\Test\obj\Debug\TypeScriptHTMLApp1.pdb

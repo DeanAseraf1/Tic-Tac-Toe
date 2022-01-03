@@ -1,0 +1,18 @@
+E:\.Net\OOPTypeScript\Test\Test\bin\TypeScriptHTMLApp1.dll.config
+E:\.Net\OOPTypeScript\Test\Test\bin\TypeScriptHTMLApp1.dll
+E:\.Net\OOPTypeScript\Test\Test\bin\TypeScriptHTMLApp1.pdb
+E:\.Net\OOPTypeScript\Test\Test\obj\Debug\TypeScriptHTMLApp1.dll
+E:\.Net\OOPTypeScript\Test\Test\obj\Debug\TypeScriptHTMLApp1.pdb
+E:\.Net\OOPTypeScript\Test\Test\obj\Debug\Project02TicTacToe.csprojAssemblyReference.cache
+E:\.Net\OOPTypeScript\Project02TicTacToe\Test\bin\TypeScriptHTMLApp1.dll.config
+E:\.Net\OOPTypeScript\Project02TicTacToe\Test\bin\TypeScriptHTMLApp1.dll
+E:\.Net\OOPTypeScript\Project02TicTacToe\Test\bin\TypeScriptHTMLApp1.pdb
+E:\.Net\OOPTypeScript\Project02TicTacToe\Test\obj\Debug\Project02TicTacToe.csprojAssemblyReference.cache
+E:\.Net\OOPTypeScript\Project02TicTacToe\Test\obj\Debug\TypeScriptHTMLApp1.dll
+E:\.Net\OOPTypeScript\Project02TicTacToe\Test\obj\Debug\TypeScriptHTMLApp1.pdb
+E:\.Net\OOPTypeScript\Project02TicTacToe\Project02 TicTacToe Dean Yair Aseraf\TicTacToe\bin\TypeScriptHTMLApp1.dll.config
+E:\.Net\OOPTypeScript\Project02TicTacToe\Project02 TicTacToe Dean Yair Aseraf\TicTacToe\bin\TypeScriptHTMLApp1.dll
+E:\.Net\OOPTypeScript\Project02TicTacToe\Project02 TicTacToe Dean Yair Aseraf\TicTacToe\bin\TypeScriptHTMLApp1.pdb
+E:\.Net\OOPTypeScript\Project02TicTacToe\Project02 TicTacToe Dean Yair Aseraf\TicTacToe\obj\Debug\Project02TicTacToe.csprojAssemblyReference.cache
+E:\.Net\OOPTypeScript\Project02TicTacToe\Project02 TicTacToe Dean Yair Aseraf\TicTacToe\obj\Debug\TypeScriptHTMLApp1.dll
+E:\.Net\OOPTypeScript\Project02TicTacToe\Project02 TicTacToe Dean Yair Aseraf\TicTacToe\obj\Debug\TypeScriptHTMLApp1.pdb
